@@ -1,5 +1,5 @@
 # Coffee-Shop-Frontend
-# Start Your Day with the Perfect Cup of Coffee Begin your mornings with the rich aroma and smooth taste of freshly brewed coffee. Crafted to energize your day and elevate your mood.
+☕ Start Your Day with the Perfect Cup of Coffee Begin your mornings with the rich aroma and smooth taste of freshly brewed coffee. Crafted to energize your day and elevate your mood.
 ![image](https://github.com/user-attachments/assets/d275c2ed-2942-4c4f-b50a-f9f63c2b71af)
 ![image](https://github.com/user-attachments/assets/b33e563e-6fe3-4bdd-b1db-213462115c87)
 ![image](https://github.com/user-attachments/assets/7f4a68d0-41a3-40eb-b6fb-7b1ff351385f)
